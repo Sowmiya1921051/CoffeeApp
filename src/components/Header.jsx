@@ -25,7 +25,7 @@ const ComponentWithBackgroundImage = () => {
                             <a href="#" className="block mt-4 sm:inline-block sm:mt-0 mr-4">BOOKING</a>
                             <a href="#" className="block mt-4 sm:inline-block sm:mt-0 mr-4">ABOUT</a>
                             <a href="#" className="block mt-4 sm:inline-block sm:mt-0 mr-4">BLOG</a>
-                            <a href="#" className="block mt-4 sm:inline-block sm:mt-0">CONTACT</a>
+                            <a href="#" className="block mt-4 sm:inline-block sm:mt-0">CONTACT US</a>
                         </div>
                     </div>
                 </div>
